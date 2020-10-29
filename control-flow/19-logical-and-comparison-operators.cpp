@@ -29,4 +29,11 @@ int main()
     {
         cout << "You got both wrong!\n";
     }
+
+    // Logical Operators
+    // && || !
+
+    // Comparison Operators
+    // < <= > >= == !=
 }
+
